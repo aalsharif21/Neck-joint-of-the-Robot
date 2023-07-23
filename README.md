@@ -1,9 +1,10 @@
 # Neck-joint-of-the-Robot
-Head movement in two axis horizontal and vertical
+## Head movement in two axis horizontal and vertical
 
-## (1) Horizontal axis direction
+### (1) Horizontal axis direction
 
  Rigtht rotate
+![picture](Right rotate.bmp)
 
 
 
@@ -11,7 +12,7 @@ Head movement in two axis horizontal and vertical
 
 
 
- ## (2) Vertical axis direction
+ ### (2) Vertical axis direction
 
  UP rotate
 
