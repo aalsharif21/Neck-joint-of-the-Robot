@@ -12,7 +12,6 @@
  ![picture](left-rotate.bmp)
 
 
-
  ### (2) Vertical axis direction
 
  UP rotate
