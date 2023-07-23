@@ -9,13 +9,17 @@
 
 
  Left rotate
+ ![picture](left-rotate.bmp)
 
 
 
  ### (2) Vertical axis direction
 
  UP rotate
+ ![picture](up-rotate.bmp)    ![picture](up-rotate2.bmp)
+
 
 
 
  down rotate
+ ![picture](down-rotate.bmp)    ![picture](down-rotate2.bmp)
