@@ -4,7 +4,7 @@
 ### (1) Horizontal axis direction
 
  Rigtht rotate
-![picture](Right rotate.bmp)
+![picture](Right-rotate.bmp)
 
 
 
